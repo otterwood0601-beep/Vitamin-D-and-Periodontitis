@@ -1,4 +1,3 @@
-```markdown
 # Vitamin D and Periodontitis
 
 Analysis and visualization code for a study of vitamin D and periodontitis, with a focus on GDF15, ERK1/2 signaling, gingival fibroblasts, and extracellular matrix remodeling.
